@@ -1,6 +1,7 @@
 # Premier League Players Data Scraping
 
 A Python-based web scraping project that collects **Premier League player statistics**, focusing on players with the highest numbers of **goals and assists**. The project uses **BeautifulSoup, Selenium, Pandas, and Matplotlib** for data extraction, processing, analysis, and visualization.
+<img width="1897" height="922" alt="image" src="https://github.com/user-attachments/assets/0b52cc79-632f-4a34-9095-7c96738a8c4e" />
 
 ## 🚀 Project Overview
 
@@ -70,58 +71,9 @@ Premier League Website
     Visualization
 ```
 
-## 📁 Project Structure
 
-```text
-Premier-League-Players-Data-Scraping/
-│
-├── scraping.py
-├── analysis.py
-├── visualization.py
-├── data/
-│   └── scraped_data.csv
-├── graphs/
-│   └── player_statistics.png
-├── requirements.txt
-└── README.md
-```
 
-> The actual file structure may vary depending on the implementation.
 
-## ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Or install the main packages manually:
-
-```bash
-pip install beautifulsoup4 selenium pandas matplotlib
-```
-
-### 3. Run the scraper
-
-```bash
-python scraping.py
-```
-
-The scraper will collect the available player statistics and process them into structured data.
-
-## 📈 Results
-
-The collected data can be used to identify and compare the Premier League's leading players based on goals and assists.
-
-The project also produces visualizations that provide a quick overview of player performance.
 
 ## 🎯 Learning Outcomes
 
